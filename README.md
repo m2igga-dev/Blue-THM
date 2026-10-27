@@ -42,6 +42,6 @@ In this step, i was looking at upgrading a standard command shell to a Meterpret
 
 <img width="469" height="167" alt="image" src="https://github.com/user-attachments/assets/0341e86e-8089-44f1-86b7-fb9358c17a64" />
 
-
+<h4>Identifying the session id of the background process</h4>
 
 <img width="494" height="396" alt="image" src="https://github.com/user-attachments/assets/6c5fdaf6-0fd0-4f2e-a655-8de759b4b6b5" />
