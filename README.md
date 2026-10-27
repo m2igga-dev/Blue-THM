@@ -45,3 +45,19 @@ In this step, i was looking at upgrading a standard command shell to a Meterpret
 <h4>Identifying the session id of the background process</h4>
 
 <img width="494" height="396" alt="image" src="https://github.com/user-attachments/assets/6c5fdaf6-0fd0-4f2e-a655-8de759b4b6b5" />
+
+<h1>STEP 6</h1> From this moment i am running a different session so there would be a change in the ip addresses
+
+run the exploit
+
+<img width="518" height="254" alt="image" src="https://github.com/user-attachments/assets/6ce6072c-1858-448b-b205-f0bfacf62760" />
+
+I was able to get a meterpreter shell
+
+<img width="545" height="334" alt="image" src="https://github.com/user-attachments/assets/c95d0615-1568-48fe-ae04-daa469b5e1c4" />
+
+I verify escalation to NT AUTHORITY\SYSTEM
+
+<img width="497" height="112" alt="image" src="https://github.com/user-attachments/assets/16420543-ab6d-452b-a5fa-668d30682964" />
+
+<img width="635" height="321" alt="image" src="https://github.com/user-attachments/assets/820c8c22-4e00-4121-b552-79fa6e794b40" />
